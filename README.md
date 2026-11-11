@@ -1,4 +1,4 @@
-# Hi, I'm Jincheng Huang · 黄锦成
+# Hi, I'm Daniel Huang
 
 I am interested in financial text mining, investor interaction, asset pricing, and machine-learning applications in financial markets.
 
